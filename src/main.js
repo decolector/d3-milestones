@@ -418,7 +418,7 @@ export default function milestones(selector) {
                 .append('span')
                 .classed('milestones-label', true)
                 .classed('milestones-text-label', true)
-                .text(t);
+                .html(t);
             }
 
             item.datum({
