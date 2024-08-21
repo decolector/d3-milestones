@@ -6,5 +6,5 @@ node_modules/
 npm-debug.log
 .vscode
 .source.*.html
-build/
+#build/
 storybook-static
